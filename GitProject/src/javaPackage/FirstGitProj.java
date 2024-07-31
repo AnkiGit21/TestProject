@@ -7,7 +7,6 @@ public class FirstGitProj {
 		System.out.println("Hello testBranch");
 
         System.out.println("Hello testBranch GIT");
-
 		System.out.println("Hello master Git");
 
 
